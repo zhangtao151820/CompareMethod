@@ -4,6 +4,9 @@ A lightweight [CompareMethod](https://github.com/zhangtao151820/CompareMethod/bl
 ## Research area and samples
 ![](https://github.com/zhangtao151820/CompareMethod/blob/master/results/Figure%201.jpg)
 
+## Landsat 8 - OLI Image
+The image comes from GEE.(Google Earth Engine:https://code.earthengine.google.com/)
+
 ## Code description
 
 The folder named "FeatureEngineering" includes all the code of SVM,RF,AdaBoost based on single pixels and image patches.
