@@ -1,5 +1,5 @@
 # CompareMethod
-A lightweight [CompareMethod](https://github.com/zhangtao151820/CompareMethod/blob/master/remotesensing-410868-peer-review.pdf) sklearn and keras implementation.
+A lightweight [CompareMethod](https://www.mdpi.com/2072-4292/11/1/2) sklearn and keras implementation.
 
 ## Research area and samples
 ![](https://github.com/zhangtao151820/CompareMethod/blob/master/results/Figure%201.jpg)
